@@ -1,15 +1,13 @@
 <h1 align="center">Hello 🙋🏽‍♂️ I'm Wahaj 🙂</h1>
 <h3 align="center">Data Scientist 👨🏽‍💻 Foodie 🍝 Gym Junkie 🏋️‍♂️</h3>
 
-<h3 align="left">Contact me:</h3>
-<p align="left">
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahaj-dar-/" height="30" width="40" /></a>
-</p>
 
 
 
 
 
+**Contact me:**
+[:mailbox:](mailto:wahajdar95@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
