@@ -1,8 +1,6 @@
 <h1 align="center">Hello 🙋🏽‍♂️, I'm Wahaj 🙂</h1>
 <h3 align="center">Data Scientist 👨🏽‍💻 Foodie 🍝 Gym Junkie 🏋️‍♂️</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahajdar98" alt="wahajdar98" /></a> </p>
-
 - 📫 How to reach me **Wahajdar95@gmail.com**
 
 - ⚡ Fun fact **I went on a bus tour all across Europe.**
@@ -18,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahajdar98&show_icons=true&locale=en&layout=compact" alt="wahajdar98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahajdar98&show_icons=true&locale=en" alt="wahajdar98" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahajdar98" alt="wahajdar98" /></a> </p>
