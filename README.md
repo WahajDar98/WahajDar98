@@ -2,10 +2,6 @@
 <h3 align="center">Data Scientist 👨🏽‍💻 Foodie 🍝 Gym Junkie 🏋️‍♂️</h3>
 
 
-
-
-
-
 **Contact me:**
 
 [:mailbox:](mailto:wahajdar95@gmail.com?subject=[GitHub]%20Hello%20) 
