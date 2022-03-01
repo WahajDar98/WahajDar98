@@ -1,3 +1,6 @@
+![NYC Skyline](https://user-images.githubusercontent.com/91620852/156086369-8a0e9c8c-9a39-46ea-a432-8a587fc36dc6.jpeg)
+
+
 <h1 align="center">Hello 🙋🏽‍♂️ I'm Wahaj 🙂</h1>
 <h3 align="center">Data Scientist 👨🏽‍💻 Foodie 🍝 Gym Junkie 🏋️‍♂️</h3>
 
