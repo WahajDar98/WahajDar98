@@ -2,10 +2,11 @@
 <h3 align="center">Data Scientist 👨🏽‍💻 Foodie 🍝 Gym Junkie 🏋️‍♂️</h3>
 
 
-**Contact me:**
+
+<h3 align="left">Contact me:</h3>
+<p align="left">
 
 [:mailbox:](mailto:wahajdar95@gmail.com?subject=[GitHub]%20Hello%20) 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
