@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello 🙋🏽‍♂️ I'm Wahaj 🙂</h1>
-<h3 align="center">Data Scientist 👨🏽‍💻 Foodie 🍝 Gym Junkie 🏋️‍♂️</h3>
+<h3 align="center">Data Scientist/Data Analyst 👨🏽‍💻 Foodie 🍝 Gym Junkie 🏋️‍♂️</h3>
 
 
 
