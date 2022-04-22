@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Wahajdar95@gmail.com**
 
-- 📄 Know about my experiences [Wahaj's Resume](https://docs.google.com/document/d/1DPN1QbJWTrYEQ7szIn7d7VMrZ1Zm4ZGJ/edit#)
+- 📄 Know about my experiences [Wahaj's Resume](https://docs.google.com/document/d/1DPN1QbJWTrYEQ7szIn7d7VMrZ1Zm4ZGJ/edit?usp=sharing&ouid=105541229415998842782&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I went on a 16 days bus tour across Europe 🚌**
 
